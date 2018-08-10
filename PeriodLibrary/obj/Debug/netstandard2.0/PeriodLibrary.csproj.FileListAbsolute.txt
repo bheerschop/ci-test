@@ -1,0 +1,9 @@
+C:\dev\sandbox\MySolution\PeriodLibrary\bin\Debug\netstandard2.0\PeriodLibrary.deps.json
+C:\dev\sandbox\MySolution\PeriodLibrary\bin\Debug\netstandard2.0\PeriodLibrary.dll
+C:\dev\sandbox\MySolution\PeriodLibrary\bin\Debug\netstandard2.0\PeriodLibrary.pdb
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.csprojAssemblyReference.cache
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.csproj.CoreCompileInputs.cache
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.AssemblyInfoInputs.cache
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.AssemblyInfo.cs
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.dll
+C:\dev\sandbox\MySolution\PeriodLibrary\obj\Debug\netstandard2.0\PeriodLibrary.pdb
