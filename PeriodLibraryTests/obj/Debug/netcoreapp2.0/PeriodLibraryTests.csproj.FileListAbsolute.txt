@@ -1,0 +1,17 @@
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.csprojAssemblyReference.cache
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.csproj.CoreCompileInputs.cache
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.AssemblyInfoInputs.cache
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.AssemblyInfo.cs
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibraryTests.deps.json
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibraryTests.runtimeconfig.json
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibraryTests.runtimeconfig.dev.json
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibraryTests.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibraryTests.pdb
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibrary.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\bin\Debug\netcoreapp2.0\PeriodLibrary.pdb
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.csproj.CopyComplete
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.dll
+C:\dev\sandbox\MySolution\PeriodLibraryTests\obj\Debug\netcoreapp2.0\PeriodLibraryTests.pdb
