@@ -1,5 +1,6 @@
 language: csharp
-dotnet: 2.1.0
+dotnet: 2.1.1
+mono: none
 script:
  - dotnet build
  - dotnet test PeriodLibraryTests\PeriodLibraryTests.csproj
