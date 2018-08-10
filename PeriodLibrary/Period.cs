@@ -20,7 +20,7 @@ namespace PeriodLibrary
         public DateTime End { get; }
 
         public override string ToString() {
-            return $"{Start: dd-MM-yyyy} to {End: dd-MM-yyyy}";
+            return $"{Start:dd-MM-yyyy} to {End:dd-MM-yyyy}";
         }
 
         public override int GetHashCode(){
@@ -36,6 +36,11 @@ namespace PeriodLibrary
         public bool Equals(Period other)
         {
             return Start == other.Start && End == other.End;
+        }
+
+        public bool HasOverlap(Period p2)
+        {
+            return Start <= p2.End && End >= p2.Start;
         }
     }
 }
