@@ -44,4 +44,6 @@ try {
     Pop-Location
 }
 
-exec { & dotnet pack .\PeriodLibrary\PeriodLibrary.csproj -c Release -o .\artifacts --include-symbols --no-build $versionSuffix }
+Pop-Location
+
+exec { & dotnet pack .\PeriodLibrary\PeriodLibrary.csproj -c Release -o ..\artifacts --include-symbols --no-build $versionSuffix }
