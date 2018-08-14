@@ -34,7 +34,7 @@ $versionSuffix = @{ $true = "--version-suffix=$($suffix)"; $false = ""}[$suffix 
 echo "build: Package version suffix is $suffix"
 echo "build: Build version suffix is $buildSuffix" 
 
-exec { & dotnet build MySol.sln -c Release --version-suffix=$buildSuffix }
+exec { & dotnet build PeriodLibrary.sln -c Release --version-suffix=$buildSuffix }
 
 Push-Location -Path .\PeriodLibraryTests
 
